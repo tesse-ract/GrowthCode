@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+/* .home{
+  height: auto;
+  background: rgb(255, 255, 255);
+}
+.left{
+  height: auto;
+  
+}
+
+.para{
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.data1, .data2{
+  border-color: rgba(0, 0, 0, 0.1);
+}
+
+#d1, #d2, #d3{
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+ */
+
+/* .items{
+  width: 90%;
+} */
+
+.item1{
+  /* margin: 10px; */
+  /* width: 295px; */
+  /* height: 405px; */
+}
+
+.heading, .price{
+  /* font-weight: 700; */
+  /* font-size: 24px; */
+}
+
+/* 
+.productRating{
+  height: 25px;
+}
+
+
+.productDescription >p {
+    color: rgba(0, 0, 0, 0.6);
+    font-weight: 400;
+}
+
+
+.MuiOutlinedInput-root.Mui-error {
+  color: red;
+}
+.productLine{
+  width: 70%;
+
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.reviewCard{
+  width: 610px;
+}
+
+.lineChart{
+  height: 550px;
+}
+
+.userProfile > img{
+  width: 250px;
+  height: 250px;
+  border: 4px solid black;
+}
+
+ */
+ .btn {
+  width: 210px;
+  height: 52px;
+  padding:16px, 54px, 16px, 54px;
+  text-align: center;
+}
+.brandLogo{
+  height: 122px;
+}
+/* .countBtn{
+  background: rgba(240, 240, 240, 1);
+} */
